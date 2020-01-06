@@ -43,7 +43,10 @@ end
 
 
 def total_gross(source)
+  
   director_earning_hash = directors_totals(source)
+  
+  director_
   # Write this implementation
   #
   # Should use methods:
