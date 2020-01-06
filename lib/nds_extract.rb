@@ -25,7 +25,7 @@ def gross_for_director(d)
 end
 
 def list_of_directors(source)
-  
+  directors_array = []
   # Write this implementation
 end
 
