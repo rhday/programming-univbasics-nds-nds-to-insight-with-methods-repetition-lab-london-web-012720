@@ -51,7 +51,7 @@ def total_gross(source)
   index = 0 
   total = 0 
   
-  while 
+  while index < 
   end
   # Write this implementation
   #
