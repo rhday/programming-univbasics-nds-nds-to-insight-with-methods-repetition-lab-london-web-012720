@@ -30,8 +30,9 @@ def list_of_directors(source)
   while directors_index < source.length do
     the_stooges = [directors_index][:name]
     directors_array << the_stooges
+    directors_index += 1
   end
-  directors_index += 1
+  directors_array
 end
 
 
