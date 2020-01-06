@@ -25,14 +25,20 @@ def gross_for_director(d)
 end
 
 def list_of_directors(source)
+  
   directors_array = []
   directors_index = 0 
+  
   while directors_index < source.length do
+    
     the_stooges = [directors_index][:name]
     directors_array << the_stooges
     directors_index += 1
+    
   end
+  
   directors_array
+  
 end
 
 
