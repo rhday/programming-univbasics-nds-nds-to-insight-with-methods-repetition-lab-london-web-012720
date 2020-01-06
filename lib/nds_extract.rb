@@ -51,8 +51,11 @@ def total_gross(source)
   index = 0 
   total = 0 
   
-  while index < 
+  while index < director_names.length do 
+    
+    index += 1
   end
+  total
   # Write this implementation
   #
   # Should use methods:
