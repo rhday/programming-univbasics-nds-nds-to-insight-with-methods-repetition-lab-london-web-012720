@@ -29,6 +29,7 @@ def list_of_directors(source)
   directors_index = 0 
   while directors_index < source.length do
     the_stooges = [directors_index][:name]
+    
   end
 end
 
