@@ -26,6 +26,8 @@ end
 
 def list_of_directors(source)
   directors_array = []
+  directors_index = 0 
+  while directors_index < list_of_directors
   # Write this implementation
 end
 
