@@ -29,9 +29,11 @@ def list_of_directors(source)
   directors_index = 0 
   while directors_index < source.length do
     the_stooges = [directors_index][:name]
-    
+    directors_array << the_stooges
   end
+  directors_index += 1
 end
+
 
 def total_gross(source)
   # Write this implementation
